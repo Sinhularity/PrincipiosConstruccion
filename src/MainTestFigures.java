@@ -8,11 +8,11 @@ public class MainTestFigures {
         TestRec01.setHeight(3);
 
         System.out.println("Area: "+TestRec01.getArea());
-        System.out.println("Perimeter: "+ TestRec01.getPermieter());
+        System.out.println("Perimeter: "+ TestRec01.getPerimeter());
 
         TestRec01.changeDimensions(3);
 
         System.out.println("New area: "+TestRec01.getArea());
-        System.out.println("New perimeter: "+TestRec01.getPermieter());
+        System.out.println("New perimeter: "+TestRec01.getPerimeter());
     }
 }
