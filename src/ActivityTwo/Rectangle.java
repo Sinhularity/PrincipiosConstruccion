@@ -30,7 +30,7 @@ public class Rectangle extends Figure implements ReshapeFigure {
     }
 
     @Override
-    public int getPermieter() {
+    public int getPerimeter() {
         return (getHeight() * 2 + getWidth() * 2);
     }
 
