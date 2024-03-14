@@ -12,5 +12,5 @@ public abstract class Figure {
     }
 
     public abstract int getArea ();
-    public abstract int getPermieter();
+    public abstract int getPerimeter();
 }
