@@ -29,7 +29,7 @@ public class Triangle extends Figure{
     }
 
     @Override
-    public int getPermieter() {
+    public int getPerimeter() {
         // Let's suppose that it is an Isosceles Triangle
         return getWidth() + getHeight() * 2;
     }
